@@ -1,0 +1,1 @@
+This error occurs when using the `Dimensions` API in React Native to get screen dimensions, but the values returned are incorrect or zero. This often happens when accessing the dimensions before the component has fully mounted or when the layout hasn't been calculated yet.
